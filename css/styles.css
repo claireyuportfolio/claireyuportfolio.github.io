@@ -1,0 +1,22 @@
+.card-title {
+  color: black;
+  font-weight: bold; font-family: "Century Gothic"; font-size: 40px;
+}
+
+.name {font-size: 50px; font-family: "Century Gothic"; color: black; font-weight: bold;}
+
+.pic {border-style: solid; }
+
+.card-block {border-style: solid;}
+
+.card-footer {border-style: solid; background-color: #425352;}
+
+.navbar-brand {background-color: #C9AD95;}
+
+.iconstyles {height: 40px; width:40px;}
+
+.navbar-brand {font-family: "Century Gothic";}
+
+.pics {margin-left: 20; margin-top: 15;}
+
+h5 {font-family: "Century Gothic";}
